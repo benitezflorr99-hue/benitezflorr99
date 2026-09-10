@@ -1,4 +1,4 @@
-      <h2>Mi nombre es Florencia 🖐</h2>
+      Mi nombre es Florencia 🖐
 
       🙋‍♀️ Profesión: Estudiante
 
@@ -12,7 +12,7 @@
 
       💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
 
-      <h2>Otro div</h2>
+      Otro div
 
       Acá va el contenido del segundo bloque.
 
