@@ -1,5 +1,5 @@
-<div class="headerContainer">
-  <div>
+<div style="display: flex; gap: 10px;"">
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
     <h2>Mi nombre es Florencia 🖐</h2>
     
     
@@ -20,8 +20,8 @@
     
     💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
   </div>
-  <div>
-    
+  <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
+    Otro div
   </div>
 </div>
 
@@ -37,18 +37,3 @@
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
-
-
-
-<style>
-  .headerContainer {
-    display: flex;       /* Activa el modo Flexbox */
-    gap: 10px;           /* (Opcional) Deja un espacio entre los hijos */
-  }
-  
-  .headerContainer > div {
-    flex: 1;             /* (Opcional) Hace que ambos hijos midan lo mismo */
-    padding: 10px;
-    background-color: #f0f0f0;
-  }
-</style>
