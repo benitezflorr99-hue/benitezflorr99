@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
       <h2>Mi nombre es Florencia 🖐</h2>
 
       🙋‍♀️ Profesión: Estudiante
@@ -16,17 +12,11 @@
 
       💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
 
-    </td>
-
-    <td width="50%" valign="top">
-
       <h2>Otro div</h2>
 
       Acá va el contenido del segundo bloque.
 
-    </td>
-  </tr>
-</table>
+
 
 ✔ CONOCIMIENTOS
 
