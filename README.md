@@ -1,29 +1,32 @@
-<div style="display: flex; gap: 10px;"">
-  <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
-    <h2>Mi nombre es Florencia 🖐</h2>
-    
-    
-    🙋‍♀️ Profeción: Estudiante
-    
-    
-    🏫 Secundario : Luis Piedra Buena N°8
-    
-    
-    🎓 Nivel superior: I.S.F.T N°172
-    
-    
-    🏡 Remedios de Escalada
-    
-    
-    📩 benitezflorr99@gmail.com
-    
-    
-    💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
-  </div>
-  <div style="flex: 1; border: 1px solid #ccc; padding: 10px;">
-    Otro div
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+      <h2>Mi nombre es Florencia 🖐</h2>
+
+      🙋‍♀️ Profesión: Estudiante
+
+      🏫 Secundario: Luis Piedra Buena N°8
+
+      🎓 Nivel superior: I.S.F.T N°172
+
+      🏡 Remedios de Escalada
+
+      📩 benitezflorr99@gmail.com
+
+      💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
+
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h2>Otro div</h2>
+
+      Acá va el contenido del segundo bloque.
+
+    </td>
+  </tr>
+</table>
 
 ✔ CONOCIMIENTOS
 
