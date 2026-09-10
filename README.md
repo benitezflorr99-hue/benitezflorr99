@@ -1,30 +1,30 @@
 <table>
 <tr>
-  <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-    <h2>Mi nombre es Florencia 🖐</h2>
+<h2>Mi nombre es Florencia 🖐</h2>
 
-    🙋‍♀️ Profesión: Estudiante
+🙋‍♀️ Profesión: Estudiante
 
-    🏫 Secundario: Luis Piedra Buena N°8
+🏫 Secundario: Luis Piedra Buena N°8
 
-    🎓 Nivel superior: I.S.F.T N°172
+🎓 Nivel superior: I.S.F.T N°172
 
-    🏡 Remedios de Escalada
+🏡 Remedios de Escalada
 
-    📩 benitezflorr99@gmail.com
+📩 benitezflorr99@gmail.com
 
-    💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
+💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
 
-  </td>
+</td>
 
-  <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-    <h2>Otro div</h2>
+<h2>Otro div</h2>
 
-    Acá va el contenido del segundo bloque.
+Acá va el contenido del segundo bloque.
 
-  </td>
+</td>
 </tr>
 </table>
 
