@@ -1,4 +1,4 @@
-<div style="border: solid 1px black">
+<div class="headerContainer">
   <div>
     <h2>Mi nombre es Florencia 🖐</h2>
     
@@ -37,3 +37,18 @@
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+
+
+
+<style>
+  .headerContainer {
+    display: flex;       /* Activa el modo Flexbox */
+    gap: 10px;           /* (Opcional) Deja un espacio entre los hijos */
+  }
+  
+  .headerContainer > div {
+    flex: 1;             /* (Opcional) Hace que ambos hijos midan lo mismo */
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+</style>
