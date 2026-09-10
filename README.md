@@ -20,8 +20,7 @@
 
 <td width="40%" valign="top">
 
-Emoticon
-
+<img src="https://github.com/benitezflorr99-hue/benitezflorr99/blob/main/gatito.png">
 </td>
 </tr>
 </table>
