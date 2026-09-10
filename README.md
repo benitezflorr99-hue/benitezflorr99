@@ -1,6 +1,5 @@
 <div>
-  Mi nombre es Florencia 🖐
-
+  <h2>Mi nombre es Florencia 🖐</h2>
   
   
   🙋‍♀️ Profeción: Estudiante
