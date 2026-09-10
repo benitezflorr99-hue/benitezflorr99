@@ -1,28 +1,29 @@
-<div>
-  <h2>Mi nombre es Florencia 🖐</h2>
-  
-  
-  🙋‍♀️ Profeción: Estudiante
-  
-  
-  🏫 Secundario : Luis Piedra Buena N°8
-  
-  
-  🎓 Nivel superior: I.S.F.T N°172
-  
-  
-  🏡 Remedios de Escalada
-  
-  
-  📩 benitezflorr99@gmail.com
-  
-  
-  💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
+<div style="border: solid 1px black">
+  <div>
+    <h2>Mi nombre es Florencia 🖐</h2>
+    
+    
+    🙋‍♀️ Profeción: Estudiante
+    
+    
+    🏫 Secundario : Luis Piedra Buena N°8
+    
+    
+    🎓 Nivel superior: I.S.F.T N°172
+    
+    
+    🏡 Remedios de Escalada
+    
+    
+    📩 benitezflorr99@gmail.com
+    
+    
+    💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
+  </div>
+  <div>
+    
+  </div>
 </div>
-<div>
-  
-</div>
-
 
 ✔ CONOCIMIENTOS
 
