@@ -1,20 +1,32 @@
-Mi nombre es Florencia 🖐
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-🙋‍♀️ Profesión: Estudiante
+      <h2>Mi nombre es Florencia 🖐</h2>
 
-🏫 Secundario: Luis Piedra Buena N°8
+      🙋‍♀️ Profesión: Estudiante
 
-🎓 Nivel superior: I.S.F.T N°172
+      🏫 Secundario: Luis Piedra Buena N°8
 
-🏡 Remedios de Escalada
+      🎓 Nivel superior: I.S.F.T N°172
 
-📩 benitezflorr99@gmail.com
+      🏡 Remedios de Escalada
 
-💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
+      📩 benitezflorr99@gmail.com
 
-Otro div
+      💻 Materias en curso: Programación Web, Laboratorio de medios digitales.
 
-Acá va el contenido del segundo bloque.
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h2>Otro div</h2>
+
+      Acá va el contenido del segundo bloque.
+
+    </td>
+  </tr>
+</table>
 
 
 
