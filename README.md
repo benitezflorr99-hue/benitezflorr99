@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 <h2>Mi nombre es Florencia 🖐</h2>
 
@@ -18,11 +18,9 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-<h2>Otro div</h2>
-
-Acá va el contenido del segundo bloque.
+Emoticon
 
 </td>
 </tr>
